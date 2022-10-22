@@ -4,7 +4,7 @@
 
 ##
 <div>
-<a href = "https://www.chess.com/member/pastorcheck" target="_blank"><img src= "https://img.shields.io/badge/contact-chess-brightgreen"
+<a href = "https://www.chess.com/member/pastorcheck" target="_blank"><img src= "https://img.shields.io/badge/contact-chess.com-brightgreen"
 target="_blank"></a>    
 
 
